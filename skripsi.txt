@@ -1,1 +1,5 @@
 Judul : aaaa
+
+abstrak :
+melihat situasi jakarta saat ini bla bla
+
